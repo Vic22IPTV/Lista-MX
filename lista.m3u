@@ -37,6 +37,9 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-chno="14.2"id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-chno="75"id="" tvg-name="TeleMUNDOint" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO internacional
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92782
+
 #EXTINF:-1 tvg-chno="23"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportesⓧ FHD 🇺🇸
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1203
 
@@ -58,6 +61,12 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/77320
 #EXTINF:-1 tvg-chno="130.1"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽 op2
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
 
+#EXTINF:-1 tvg-chno="91"id="" tvg-name="Sky Sports LaLigaⓧ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",Sky Sports LaLigaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
+
+#EXTINF:-1 tvg-chno="25"id="" tvg-name="Fox Soccer Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",US: Fox Soccer Plus HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/79461
+
 #EXTINF:-1 tvg-chno="12"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -69,3 +78,4 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="13.2"id="N+" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Televisa",N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
