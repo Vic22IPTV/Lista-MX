@@ -40,6 +40,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-chno="75"id="" tvg-name="TeleMUNDOint" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO internacional
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92782
 
+#EXTINF:-1 tvg-chno="92.2"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+
 #EXTINF:-1 tvg-chno="23"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportesⓧ FHD 🇺🇸
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1203
 
@@ -66,6 +69,12 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
 
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="Fox Soccer Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",US: Fox Soccer Plus HD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/79461
+
+#EXTINF:-1 tvg-chno="20.3"id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports2",TV Bellator MMA 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+
+#EXTINF:-1 tvg-chno="92.2"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
 #EXTINF:-1 tvg-chno="12"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
