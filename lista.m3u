@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-chno="15.1"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="9"id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Undefined",Televisa EDO MEX 
 https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
@@ -27,9 +27,6 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="17"id="Gala TV" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Televisa",Gala TV
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61110
 
-#EXTINF:-1 tvg-chno="77"id="" tvg-name="Caso cerrado" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",Caso Cerrado
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
-
 #EXTINF:-1 tvg-chno="14"id="" tvg-logo="" group-title="Undefined",Multimedios CDMX    
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-chno="14.1"id="MultimediosGuadalajara.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Guadalajara
@@ -39,9 +36,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-chno="75"id="" tvg-name="TeleMUNDOint" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO internacional
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92782
-
-#EXTINF:-1 tvg-chno="92.2"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
 #EXTINF:-1 tvg-chno="23"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportesⓧ FHD 🇺🇸
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1203
@@ -62,7 +56,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/96004
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/77320
 
 #EXTINF:-1 tvg-chno="130.1"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽 op2
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+http://37.49.230.42:8080/96e1e190/abb9f8142a/3203
 
 #EXTINF:-1 tvg-chno="91"id="" tvg-name="Sky Sports LaLigaⓧ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",Sky Sports LaLigaⓧ
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
@@ -70,11 +64,8 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="Fox Soccer Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",US: Fox Soccer Plus HD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/79461
 
-#EXTINF:-1 tvg-chno="20.3"id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports2",TV Bellator MMA 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
-
-#EXTINF:-1 tvg-chno="92.2"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INTERNACIONAL",RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="12"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
