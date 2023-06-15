@@ -54,7 +54,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="15"group-title="Bics", EURO NEWS
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
