@@ -32,6 +32,18 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-chno="11"id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-chno="12"id="Spaninglis" tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220308_182113_270.png" group-title="variedad",Spanglish  
+https://d1rfybckk5ifoz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Spanglish-DistroTV/285.m3u8
+
+#EXTINF:-1 tvg-chno="12"id="flou caribeño" tvg-logo="https://a.jsrdn.com/hls/23085/flou-caribeno/thumbh_20230224_174743_270.jpg" group-title="variedad",Flou Caribeño 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/master.m3u8
+
+#EXTINF:-1 tvg-chno="12"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",love nature (español) 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12"id="cgtn español" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-espanol/thumbh_20221206_220517_270.jpg" group-title="documental",CGTN (español) 
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1&ads.streamtype=live
+
 #EXTINF:-1 tvg-chno="12"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/f87b4e5d-e7ce-4bc6-af74-1dd603a4d51b/5.m3u8
 
@@ -42,7 +54,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="15"group-title="Bics", EURO NEWS
-https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
