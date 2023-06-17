@@ -16,7 +16,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6"id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="7"id="" tvg-logo="" group-title="Undefined",Multimedios CDMX    
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -36,7 +36,7 @@ https://dcs3-live.mp.lura.live/server/podserve/Ag5p5mFWlJP8cwl7/rendition.m3u8?t
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14"id="Naturaleza" tvg-logo="https://images.vix.com/prd/channel/6310ea1605c27f29de0cf50a/752b06c22dcacbfd3e5ca4b1fbefd1b7?tr=q-80&w=1920" group-title="documental",Naturaleza
-https://dcs3-live-ue1-2.mp.lura.live/server/play/AoeWeMi5w6vEHOy7/manifest.mpd?anvsid=m176963399-nf1feb304c0e396b38d30f732f76606b9
+https://dcs3-live.mp.lura.live/server/podserve/AoeWeMi5w6vEHOy7/rendition.m3u8?track=video-5&ts
 
 #EXTINF:-1 tvg-chno="15"id="DOCUMENTAL" tvg-logo="https://images.vix.com/prd/channel/62275b56ed9b6711116fddec/2a13b09a5411ad24365b9c68742049c1?tr=q-80&w=1920" group-title="DOCUMENTAL",DOCUMENTALES
 https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreFgLj/rendition.m3u8?track=video-5&ts
@@ -55,6 +55,9 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="20"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="21"id=group-title="Bics"Noticias Univision 24-7
+https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/rendition.m3u8?track=video-5&ts
 
 #EXTINF:-1 tvg-chno="21"group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
