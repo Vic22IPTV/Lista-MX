@@ -6,6 +6,12 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-chno="2"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
+#EXTINF:-1 tvg-chno="2.1"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV 
+http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
+https://v3.playerlatino.live/stream/m3u8/56
+
 #EXTINF:-1 tvg-chno="3"id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Undefined",Canal 9 EDO MEX 
 https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 
@@ -24,9 +30,6 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-chno="9"id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-chno="71.2"id=" group-title="Bics",NOVELAS TURCAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 tvg-chno="10"id="VEVO regional" tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1920" group-title="musica",VEVO Regional
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
@@ -90,3 +93,9 @@ https://v3.playerlatino.live/stream/m3u8/878
 
 #EXTINF:-1 tvg-chno="130"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽
 https://v3.playerlatino.live/stream/m3u8/512
+
+#EXTINF:-1 tvg-chno="24"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes 🇺🇸
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/03.m3u8
+
+#EXTINF:-1 tvg-chno="25"id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Sports",FOX Deportes 🇺🇸
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(72189-FXDEPHD)/03.m3u8
