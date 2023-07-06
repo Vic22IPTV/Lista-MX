@@ -1,12 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1"id="" tvg-logo="" group-title="Undefined",Milenio Televisión 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
+#EXTINF:-1 tvg-chno="1"id="" tvg-logo="" group-title="Undefined",Milenio TV 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-chno="2"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-chno="2.1"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV 
+#EXTINF:-1 tvg-chno="2.1"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV HD
 http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
@@ -36,7 +38,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/f87b4e5d-e7ce-4bc6-af74-1dd603a4d51b/5.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QfK3mYzDR-MzyX4BGLnA
 
 #EXTINF:-1 tvg-chno="17"id="AQUI Y AHORA" tvg-logo="https://images.vix.com/prd/channel/61f837a07716418e3547bfaf/a7f93efc739e0e2e99a254741a992c96?tr=q-80&w=1920" group-title="Tv Abierta2",AQUI Y AHORA
 https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
@@ -53,16 +55,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f
 #EXTINF:-1 tvg-chno="21"group-title="Bics", EURO NEWS
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GDTZYUugtoycsEVS14Z4
 
-#EXTINF:-1 tvg-chno="22"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+#EXTINF:-1 tvg-chno="22"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español 
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-chno="23"id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INTERNACIONAL",RT (Español)
+#EXTINF:-1 tvg-chno="23"id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INTERNACIONAL",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="24"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="27"id="Forotv" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Televisa" tvg-name="FORO TV Mexico",FORO TV Mexico
+#EXTINF:-1 tvg-chno="27"id="Forotv" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Televisa" tvg-name="FORO TV Mexico",FORO TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="28"id="N+media" tvg-logo="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="Televisa",N+Media
@@ -85,9 +87,6 @@ https://v3.playerlatino.live/stream/m3u8/86
 
 #EXTINF:-1 tvg-chno="127"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
 https://v3.playerlatino.live/stream/m3u8/878
-
-#EXTINF:-1 tvg-chno="99"id="" tvg-name="IZZI Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",IZZI Afizzionados
-http://167.114.156.136:25461/INFINITV/ZX89NM22/43
 
 #EXTINF:-1 tvg-chno="130"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽
 https://v3.playerlatino.live/stream/m3u8/512
