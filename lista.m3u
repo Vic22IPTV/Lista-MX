@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-
 #EXTINF:-1 tvg-chno="1"id="" tvg-logo="" group-title="Undefined",Milenio TV 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
@@ -46,7 +44,7 @@ https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="18"id="CRÓNICAS" tvg-logo="https://images.vix.com/prd/channel/61f837ca7716417b6a47c256/0f07f9aacadcc250f4e31e82717274a3?tr=q-80&w=1920" group-title="Tv Abierta2",CRÓNICAS - Historias que hacen historias
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="19"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
+#EXTINF:-1 tvg-chno="19"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="20"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
@@ -89,13 +87,19 @@ https://v3.playerlatino.live/stream/m3u8/86
 https://v3.playerlatino.live/stream/m3u8/878
 
 #EXTINF:-1 tvg-chno="130"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽
-https://v3.playerlatino.live/stream/m3u8/512
+http://167.114.156.136:25461/INFINITV/ZX89NM22/69
 
 #EXTINF:-1 tvg-chno="24"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes 🇺🇸
 http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Sports",FOX Deportes 🇺🇸
 http://66.70.176.103:8081/LATINO%7CFOXDEPORTESR/LATINO%7CFOXDEPORTESR/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="89"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
+
+#EXTINF:-1 tvg-chno="90",Telemundo Chicago, IL WSNSⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1212
 
 
 
