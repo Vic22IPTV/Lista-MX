@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 tvg-chno="2.1"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV HD
-http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+https://www.dailymotion.com/video/x82z4if#tab_embed.m3u8#cell=lnyc
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
 https://v3.playerlatino.live/stream/m3u8/56
@@ -81,7 +81,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126d
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/75940
 
 #EXTINF:-1 tvg-chno="128"id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN univision 🇺🇸
-https://v3.playerlatino.live/stream/m3u8/86
+http://212.102.60.231/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-chno="127"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
 https://v3.playerlatino.live/stream/m3u8/878
