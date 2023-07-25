@@ -101,27 +101,5 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
 #EXTINF:-1 tvg-chno="39",Universo
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
 
-#EXTINF:-1 tvg-chno="99.1"idlogo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN op
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fh7PcExoKAL3Td2j5oxMOA","kid":"ZAFBrPLXMEJuCwEnW8nkEg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
-#EXTINF:-1 tvg-chno="99.1"idlogo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN op2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fh7PcExoKAL3Td2j5oxMOA","kid":"ZAFBrPLXMEJuCwEnW8nkEg"}],"type":"temporary"}
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-1 tvg-chno="99"idlogo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" tvg-group="DEPORTES", AFIZZIONADOS op
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
-#EXTINF:-1 tvg-chno="99"idlogo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" tvg-group="DEPORTES", AFIZZIONADOS op2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}],"type":"temporary"}
-https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 
