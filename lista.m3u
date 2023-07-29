@@ -101,7 +101,8 @@ http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
 #EXTINF:-1 tvg-chno="39",Universo
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
 
-
+#EXTINF:-1 tvg-chno="90"id="canal 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
 
 
 
