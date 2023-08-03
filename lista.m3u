@@ -78,7 +78,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
 
 #EXTINF:-1 tvg-chno="32"id="TUDN 🇲🇽" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title=" group-title="Deportes",TUDN 🇲🇽
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/75940
+http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
 
 #EXTINF:-1 tvg-chno="33"id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN univision 🇺🇸
 http://212.102.60.231/TUDN/index.m3u8
