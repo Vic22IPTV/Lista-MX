@@ -45,7 +45,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
-#EXTINF:-1 tvg-chno="16"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",love nature 
+#EXTINF:-1 tvg-chno="16"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",LOVE NATURE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="17"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
@@ -100,7 +100,7 @@ http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
 http://212.102.60.231/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-chno="34"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
-https://v3.playerlatino.live/stream/m3u8/878
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="35"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
