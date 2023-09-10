@@ -52,19 +52,19 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="18"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QfK3mYzDR-MzyX4BGLnA
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iKjQAT_M_EySXRV3KBe5
 
 #EXTINF:-1 tvg-chno="19"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
-#EXTINF:-1 tvg-chno="20"id="univision" tvg-logo="" group-title="",Univisión
-http://thevdm.xyz:25461/James_axe1@comcast.net/h3hk5H7z6T/20017
+#EXTINF:-1 tvg-chno="20"id="univision" tvg-logo="" group-title="",Univisión California
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.ts
 
 #EXTINF:-1 tvg-chno="21"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="22"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iKjQAT_M_EySXRV3KBe5
+#EXTINF:-1 tvg-chno="22"id=" group-title="Bics", UNICABLE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="23"group-title="Bics", EURO NEWS
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iKjQAT_M_EySXRV3KBe5
