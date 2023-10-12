@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-chno="1"id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -57,8 +58,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f79
 #EXTINF:-1 tvg-chno="19"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
-#EXTINF:-1 tvg-chno="20"id="univision" tvg-logo="" group-title="",Univisión 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
+#EXTINF:-1 tvg-chno="20"id="the_weather_channel" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-the_weather_channel-16x9.jpg" group-title="",the_weather_channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985 
 
 #EXTINF:-1 tvg-chno="21"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -67,7 +68,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="23"group-title="Bics", EURO NEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/b7ebab3c-5b6b-48f9-9bda-a73ed5445db1/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 
 #EXTINF:-1 tvg-chno="24"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español 
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -78,8 +79,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-chno="26"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="27", MEGAnoticias
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9qo8o6ycDKvGVebFuKsc
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-meganoticias-16x9_0.jpg", MEGAnoticias
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-chno="28"id="Forotv" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Televisa" tvg-name="FORO TV Mexico",FORO TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
