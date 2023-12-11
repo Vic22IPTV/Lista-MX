@@ -59,7 +59,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38875.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="21"id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN univision 🇺🇸
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30378.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/121040.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="22"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53495.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -108,11 +108,22 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
 
 
-#EXTINF:-1  group-title="Lista 11", STAR CHANNEL
-https://mx1.gt-app.com/37/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-
-#EXTINF:-1 group-title="PREMIUM", HBO XTREME HD (p)
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30350.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7",  Premiere 10 (i) OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71327.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7", Premiere 11 (i) OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71330.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7", Premiere 12 (i) OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71329.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7", Premiere 3 | OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71320.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7",  Premiere 6 |  OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71323.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7", Premiere 7 | OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71324.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7", Premiere 8 | OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71325.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="24/7",  Premiere 9 |OK
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71326.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 
