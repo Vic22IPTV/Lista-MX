@@ -9,9 +9,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-chno="3"id="canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",canal de las estrellas 
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/25306.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="4"id="canal 5.1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",canal 5
-http://23.237.108.226/hls/HDCANAL5MX.m3u8|user-agent=Roku/DVP(10.10.10)
-
 #EXTINF:-1 tvg-chno="4" tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="RECOMENDADOS", Canal 5
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30315.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
@@ -28,10 +25,10 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 tvg-chno="9"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV HD
-http://166.0.208.26:5473/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30354.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="10"id="TelevisaEstado.mx" tvg-logo="" group-title="Undefined",Canal 9 
-http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/26836.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="11"id="LasEstrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas LATAM
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -59,13 +56,13 @@ http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-chno="20"id="TUDN 🇲🇽" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title=" group-title="Deportes",TUDN 🇲🇽
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38875.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="21"id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN univision 🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30378.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="22"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
-https://linear-348.frequency.stream/dist/univision/348/hls/master/playlist.m3u8
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53495.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="23"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽
 http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -74,13 +71,13 @@ http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://208.88.246.77:5473/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Sports",FOX Deportes 🇺🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/40910.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="26"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
+#EXTINF:-1 tvg-chno="26"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Dallas
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/21971.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="27",Universo
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/40340.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-chno="28"logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="PREMIUM",Moni TV HD
@@ -111,9 +108,11 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
 
 
-#EXTINF:-1 tvg-chno="37" group-title="Entretenimento" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/starchannel.png",Star Channel 🇲🇽🇺🇸
-http://138.219.58.234:8112/play/083
+#EXTINF:-1  group-title="Lista 11", STAR CHANNEL
+https://mx1.gt-app.com/37/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 
+#EXTINF:-1 group-title="PREMIUM", HBO XTREME HD (p)
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30350.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 
