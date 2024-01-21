@@ -1,7 +1,4 @@
-#EXTM3U
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
-
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1" id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -9,11 +6,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-chno="2"id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV AZTECA",ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="3"id="canal de las estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/25306.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="3"tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de México (XHGC)
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30315.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="4" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de MX
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-name="Duplicate XHIMT Canal 7 TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
@@ -21,8 +18,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-name="AMAS70" id="A MAS" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="TV AZTECA",A Más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-name="Duplicate XEQ" id="" tvg-name="NUEVE 9" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",NUEVE 9
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/63805.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="7" tvg-id="ElNu9ve.mx" tvg-name="El Nu9ve" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",El Nu9ve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="8"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -33,8 +30,8 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30354.m3u8|user-agent=BrzLRz
 #EXTINF:-1 tvg-chno="10"id="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png" group-title="Noticias", Milenio TV HD
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-chno="11"id="LasEstrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas Internacional
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="Las.Estrellas.(ESTRELLA).[10].cr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA", Las Estrellas Internacional
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="Internacionales", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -103,7 +100,11 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="34"logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="PREMIUM" group-title="Cine", Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="Nacional", FREE TV 8.2
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="TV ABIERTA", FREE TV 8.3
+https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
 
 
