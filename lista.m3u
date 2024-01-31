@@ -69,7 +69,10 @@ http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
 http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="22" tvg-id="I410.14791.zap2it.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO" , NBC Universo w
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199
+http://208.88.246.11:5473/transco10/9509UNVSO/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="23" tvg-id="I385.101111.schedulesdirect.org" tvg-name=""   tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="Nacional",Imagen Television
+https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
 
 
 #EXTINF:-1 tvg-chno="28"logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Infantil", PlanetaTV Kids 
