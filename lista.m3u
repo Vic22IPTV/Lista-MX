@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-chno="1" tvg-id="I85.46607.schedulesdirect.org" tvg-name=""  tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -7,7 +8,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-chno="3"tvg-id="I402.16461.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas HD
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de MX
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -56,14 +57,11 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
-#EXTINF:-1 tvg-chno="20" tvg-id="I464.75176.zap2it.com" tvg-name=""   tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes TUDN" tvg-group="Deportes" ,Tu Deportes Network (TUDN) U.S
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/916.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/320px-ViX_Logo.svg.png" group-title="⚽FUTBOL LIGA MX⚽",ViX Deportes 23
+https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="Deportes TUDN", TUDN 🇲🇽 vix
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WAPADT2.pr" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/320px-WAPA-TV_logo.svg.png" tvg-shift="-6" , WAPA DEPORTES
+https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-chno="22"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" tvg-group="Deportes"  group-title="Deportes TUDN" , Zona TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
